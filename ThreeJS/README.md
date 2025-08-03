@@ -100,9 +100,4 @@ cd Slash-3D-Survival-Game
 ## Known Issues
 - Performance may vary based on hardware
 - Potential memory leaks with large number of entities
-- Browser compatibility variations
-
-## Credits
-- Game Development: Mayuresh
-- 3D Models: Three js Examples
-- Libraries: Three.js Community
+- Browser compatibility variation
