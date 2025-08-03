@@ -32,7 +32,7 @@ A 2D graphics-based animation or game using **OpenGL (C/C++)**, developed as a p
 ## 🌐 Three.js Project – Team
 
 ### 🔸 Description
-A web-based **2D/3D survival game or animation** built using **Three.js**, collaboratively developed by a team.
+A web-based **2D/3D survival game or animation** built using **Three.js**, collaboratively developed by a team. It is a game where soldier protects the queen from getting attacked by the monsters.
 
 ### 👥 Team Members
 - Channambhika D S (GitHub: [@channambhikads](https://github.com/channambhikads))
