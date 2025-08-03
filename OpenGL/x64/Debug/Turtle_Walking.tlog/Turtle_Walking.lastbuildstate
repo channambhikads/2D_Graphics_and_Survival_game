@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.44.35207:TargetPlatformVersion=10.0.26100.0:VcpkgTriplet=x64-windows:
 Debug|x64|D:\Sem2\VRA\Assignment1\Turtle_Walking\|
+=======
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.44.35207:TargetPlatformVersion=10.0.26100.0:VcpkgTriplet=x64-windows:
+Debug|x64|D:\Sem2\VRA\Assignment1\Turtle_Walking\|
+>>>>>>> a4605879329f4b3b8e3bf28cb67d28fcc6a2018f

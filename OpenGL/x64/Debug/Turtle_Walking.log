@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ﻿  main.cpp
   Turtle_Walking.vcxproj -> D:\Sem2\VRA\Assignment1\Turtle_Walking\x64\Debug\Turtle_Walking.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
+=======
+﻿  main.cpp
+  Turtle_Walking.vcxproj -> D:\Sem2\VRA\Assignment1\Turtle_Walking\x64\Debug\Turtle_Walking.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+>>>>>>> a4605879329f4b3b8e3bf28cb67d28fcc6a2018f
